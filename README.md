@@ -28,3 +28,7 @@ There are 8 columns in each csv file. The first column is simply an index.
 - There is no data for 2015 week 3, so there are no rows in the corresponding csv.
 - For each doubles category, the `PLAYER` column consists of both player's names
 concatenated together. I didn't make an effort to split the names up.
+
+
+## Additions to existing repository
+- Addition of a jupyter notebook performing Data Analysis to discover insights.
